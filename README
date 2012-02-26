@@ -1,0 +1,2 @@
+These codes include the original codes which are used to crawl news from ustc url and sse url.oh,you are right,they are small internet spider.
+I'm gonna to use the architecture of SOA,So i package them to WebService.Of course,these codes also include the test codes which are used to test WebService.
